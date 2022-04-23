@@ -15,3 +15,5 @@ print(res.text)
 
 with open("mygoogle.html", "w", encoding="utf8") as f:
     f.write(res.text)
+
+# rename
